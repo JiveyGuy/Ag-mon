@@ -374,9 +374,7 @@ Outdoor=true
 ShowArea=true
 #-------------------------------
 [078]
-# Corbett Outdoors
 ShowArea=true
 #-------------------------------
 [079]
-# I-Mall
 ShowArea=true
