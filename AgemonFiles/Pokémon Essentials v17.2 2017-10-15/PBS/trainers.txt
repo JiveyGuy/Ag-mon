@@ -122,5 +122,15 @@ BLASTOISE,63,SITRUSBERRY
 YOUNGSTER
 Test_Trainer
 2
-PIKACHU, 3
-CHARIZARD, 10
+PIKACHU,3
+CHARIZARD,10
+#-------------------------------
+RIVAL1
+Ricky,1
+1
+BULBASAUR,5,,TACKLE,GROWL
+#-------------------------------
+RIVAL3
+Ricky,1
+1
+BULBASAUR,4,,TACKLE,GROWL
