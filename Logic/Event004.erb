@@ -1,0 +1,17 @@
+Comment: Battle: You won't be able to gig em once
+	I'm done with you Aggie!
+Comment: EndSpeech: Bummer...
+Comment: EndBattle: You're not bad chump! Begginers Lucky!
+	Here's your ID back. Better watch your back I'll be after you!
+Comment: Type:RIVAL3
+Comment: Name:Ricky
+Comment: BattleID:1
+Script: pbTrainerIntro(:RIVAL3)
+Script: Kernel.pbNoticePlayer(get_character(0))
+Text: You won't be able to gig em once
+	I'm done with you Aggie!
+Conditional Branch: Script: pbTrainerBattle(:RIVAL3, "Ricky", _I("Bummer..."),false,1,false,0)
+	Control Self Switch: A =ON
+
+	Branch End
+Script: pbTrainerEnd
