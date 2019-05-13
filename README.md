@@ -1,5 +1,12 @@
 # Agémon
 This is a pokémon like video game based around NMSU's main Las Cruces campus by Eric Ortiz, Ramon Ramirez, and Jason Ivey. The map region is as follows: 
+## Install Instructions
+To run the program download the .exe and simply execute it. 
+No install neeeded.
+## Build instructions
+Download /agemonfiles directory in this repository and use the "import" option in RPG Maker XP. The entire script system and map system will be there.
+To build hit either the build test, or the compile .exe option. 
+
 ## Route Path Diagram
 ![Cat](https://github.com/JiveyGuy/Ag-mon/blob/master/AgemonMap.jpg)
 ## Real World Mapping
