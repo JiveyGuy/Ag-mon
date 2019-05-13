@@ -17,5 +17,5 @@ The following high resolution image is the artistic inspiration for the maps in 
 The base of this game is written in ruby using the RPG maker IDE for windows XP (*Fancy huh?*) and uses a student modified version of PokémonEssentials repository. **NOTE: This project _temporarily_ used tile-sets similar to those in Pokémon video games but replaced them with Team Member made assets. This is an _Educational_ project and _is not for monetary gain nor marketed to the public_, but rather local Students and Faculty. **
 
 ## Non Pokemon Essentials Assets
-Non Pokemon Essentials written scripts are found in the Script Editor Database in RPG Maker XP editor. Under "Non Essentials Scripts"
-Non Pokemon Esseitials visual assets are found in Ag-mon/Non Esseitials Visual Assets/
+Non Pokemon Essentials written scripts are found in the Script Editor Database in RPG Maker XP editor. Under "Non Essentials Scripts".
+Non Pokemon Esseitials visual assets are found in Ag-mon/Non Essentials Visual Assets/
